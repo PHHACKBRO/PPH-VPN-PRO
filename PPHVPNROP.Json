@@ -10,13 +10,6 @@
 
       },
 
-{
-
-         "name": "SG-VPS-VIP-002",
-
-         "url": "https://raw.githubusercontent.com/chitsuma/pphvpn/main/SG-VIP-002.ovpn"
-
-      },
 
 {
 
@@ -96,28 +89,30 @@
 
          "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-010.ovpn"
 
-       }
+       },
+       
+       {
+
+         "name": "TH-GAME-VIP-011",
+
+         "url": "https://raw.githubusercontent.com/PHHACKBRO/PPH-VPN-PRO/main/TH-GAME-VIP-011.ovpn"
+
+      }
 
    ],
 
-"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞 now📩\n•Version:21\n
-
-•အပ်ဒိပ်-ဖိုင်(21) 
-
-•🇹🇭𝐓𝐇.𝐕𝐈𝐏  10 ဖိုင်
-
-•🇹🇭SG.𝐕𝐈𝐏 1ဖိုင်
-
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞 now VIP📩\n•Version:23\n
+•အပ်ဒိပ်-ဖိုင်(23) 
+•🇹🇭𝐓𝐇.𝐕𝐈𝐏  11 ဖိုင်
+•🇸🇬SG.𝐕𝐈𝐏 1ဖိုင်
 •VIPတလ၅၀ဘတ်နဲ့လာအားပေးလို့ရပါတယ်\n
-
-•VIP ဝယ်ချင်ပါက 👇👇👇နိုပ်ပြီးလဲလာဝယ်လို့ရပါတယ်
-
-•FREEဖိုင်တွေဒီမှ\n•pphvpnup.duckdns.org👈\n•နိုပ်ပြီးသုံးပြုလို့ရပါပြီး \
-
+•VIP ဝယ်ချင်ပါက 👇👇👇န
+•VIP စျေး👉1 လ 50 ဘတ်
+•VIP စျေး👉2 လ 100 ဘတ်
+•VIP စျေး👉5 လ 220 ဘတ်
 •TRUE🇹🇭DTAနှစ်မျိုးချိတ်လို့ရပါတယ်\n•😒Updateလုပ်ပေးကျပါအုံးနော်😲\n•𝐀𝐝𝐝 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞💯𝐍𝐨𝐅𝐫𝐞𝐞\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n•PaingPainghein\n•ChitSuKhin",
-
    "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 FREE&VIP💌" ,
 
-   "version": 22
+   "version": 23
 
 }
