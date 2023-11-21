@@ -5,21 +5,21 @@
 
          "name": "TH-DTAC-Line-VIP-001",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-DTAC-Line-VIP-001.ovpn"
 
       },
 {
 
          "name": "TH-DTAC-Line-VIP-002",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-002.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-DTAC-Line-VIP-002.ovpn"
 
       },
 {
 
          "name": "TH-DTAC-Line-VIP-003",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-003.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-DTAC-Line-VIP-003.ovpn"
 
       },
 
@@ -27,7 +27,7 @@
 
          "name": "TH-DTAC-Line-VIP-004",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-004.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-DTAC-Line-VIP-004.ovpn"
 
       },
 
@@ -35,62 +35,54 @@
 
          "name": "TH-DTAC-Line-VIP-005",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-005.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-DTAC-Line-VIP-005.ovpn"
 
       },
 
 {
 
-         "name": "TH-DTAC-Line-VIP-006",
+         "name": "TH-Ais-Play-VIP-001",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-006.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-Line-VIP-007",
-
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-007.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-Ais-Play-VIP-001.ovpn"
 
       },
 
 {
 
-         "name": "TH-DTAC-Line-VIP-008",
+         "name": "TH-Ais-Play-VIP-002",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-008.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-Line-VIP-009",
-
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-009.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-Ais-Play-VIP-002.ovpn"
 
       },
 
 {
 
-         "name": "TH-DTAC-Line-VIP-010",
+         "name": "TH-Ais-Play-VIP-003",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-DTAC-Line-VIP-010.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-Ais-Play-VIP-003.ovpn"
 
       },
+
 {
 
-         "name": "TH-TRUE-ESPORTS-VIP-001",
+         "name": "TH-Ais-Play-VIP-004",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-Ais-Play-VIP-004.ovpn"
 
       },
 
+{
+
+         "name": "TH-Ais-Play-VIP-005",
+
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-Ais-Play-VIP-005.ovpn"
+
+      },
 {
 
          "name": "TH-TRUE-ESPORTS-VIP-001",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-002.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-TRUE-ESP-VIP-001.ovpn"
 
       },
 
@@ -98,7 +90,7 @@
 
          "name": "TH-TRUE-ESPORTS-VIP-002",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-002.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-TRUE-ESP-VIP-002.ovpn"
 
       },
 
@@ -106,48 +98,29 @@
 
          "name": "TH-TRUE-ESPORTS-VIP-003",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-003.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-TRUE-ESP-VIP-003.ovpn"
 
-       },
+      },
+
 {
-         "name": "TH-TRUE-ESPORTS-VIP-004",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-004.ovpn"
-       },
 
+         "name": "TH-TRUE-ESPORTS-VIP-004",
+
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-TRUE-ESP-VIP-004.ovpn"
+
+       },
 {
          "name": "TH-TRUE-ESPORTS-VIP-005",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-005.ovpn"
-       },
-
-{
-         "name": "TH-TRUE-ESPORTS-VIP-006",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-006.ovpn"
-        },
-{
-         "name": "TH-TRUE-ESPORTS-VIP-007",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-007.ovpn"
-       },
-{
-         "name": "TH-TRUE-ESPORTS-VIP-008",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-008.ovpn"
-       },
-{
-         "name": "TH-TRUE-ESPORTS-VIP-009",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-009.ovpn"
-       },
-{
-         "name": "TH-TRUE-ESPORTS-VIP-010",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/STARTPPHPRO/main/TH-TRUE-ESPORTS-VIP-010.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/webvio-2024/main/TH-TRUE-ESP-VIP-005.ovpn"
        }
 
-
    ],
-   "message": "📩𝐔𝐩𝐝𝐚𝐭𝐞 now Free&VIP📩\n•Version:8\n•VIP တစ်လ၅၀ဘတ်ထဲနဲ့အားပေးလို့ရပါတယ်ခင်​ဗျာ\n•FREE တွေစမတ်ပြီမှးတွဲရပါမယ်\n• vpnတွဲသုံးနံပါတ်ဖတ်ပေးပါ👇
-\n•TRUE တလ 50ဘတ်/*935*52#
-
+   "message": "📩𝐔𝐩𝐝𝐚𝐭𝐞 now Free&VIP📩\n•Version:27\n•VIP တစ်လ၅၀ဘတ်ထဲနဲ့အားပေးလို့ရပါတယ်ခင်​ဗျာ\n•FREE တွေစမတ်ပြီမှးတွဲရပါမယ်\n• vpnတွဲသုံးနံပါတ်ဖတ်ပေးပါ👇
 \n•1-DTAC တလ 53ဘတ်
+*104*777#
 \n•2-DTAC တလ ၂၁ဘတ် 
+*117*30#
 👆👆 နှစ်ခုပေါင်းတွဲvpnနက်သုံးရပါမယ်👆👆
 TRUR%DTAC Fb Paing Paing Hein", "title": "💌𝐀𝐝𝐝 Free&VIP PRO💌",
-   "version": 26
+   "version": 27
 }
